@@ -1,1 +1,1 @@
-# Project-Euler-Solutions-Dart
+# Project-Euler-Solutions-Kotlin
